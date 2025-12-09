@@ -50,7 +50,7 @@ export const DATA: ContentData = {
             "внутреннее разрешение принимать больше",
             "ощущение поддержки и опоры"
           ],
-          illustration: "https://i.ibb.co/Nd1FFYTf/IMG-9699.webp",
+          illustration: "/images/IMG-9699.jpg",
           illustrationPrompt: "Watercolor illustration of a glowing golden Tara silhouette sitting in lotus position, holding a light, soft mint and beige washes, sacred ritual atmosphere, sparkles."
         },
         {
