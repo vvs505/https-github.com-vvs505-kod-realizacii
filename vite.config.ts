@@ -20,9 +20,7 @@ export default defineConfig(({ mode }) => {
         }
       },
       // ВАЖНО для GitHub Pages:
-      base: process.env.NODE_ENV === 'production' && process.env.GITHUB_ACTIONS 
-      ? '/https-github.com-vvs505-kod-realizacii/'
-      : '/',
+      base: process.env.NODE_ENV === 'production' ? '/' : '/',
       build: {
         outDir: 'dist',
         sourcemap: false,
