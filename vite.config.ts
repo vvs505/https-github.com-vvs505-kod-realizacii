@@ -26,7 +26,7 @@ export default defineConfig(({ mode }) => {
         sourcemap: false,
         emptyOutDir: true,
         reportCompressedSize: true, // покажет размер после сжатия
-        minify: 'terser'
+        minify: 'terser',
       }
     };
 });
