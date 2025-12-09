@@ -200,7 +200,7 @@ const App: React.FC = () => {
         <div className="max-w-5xl mx-auto bg-white border border-white/80 shadow-xl shadow-[#CDE5DA]/20 rounded-[3rem] overflow-hidden flex flex-col md:flex-row">
           <div className="md:w-5/12 min-h-[400px] relative">
              <img 
-                src="./images/IMG-9708.jpg"
+                src="/public/images/IMG-9708.jpg"
                 alt="Кристина"
                 className="absolute inset-0 w-full h-full object-cover"
              />
