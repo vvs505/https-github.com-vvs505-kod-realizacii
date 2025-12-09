@@ -37,7 +37,7 @@ const App: React.FC = () => {
            {/* Lighter overlay for faint watercolor effect */}
            <div className="absolute inset-0 bg-gradient-to-b from-[#F8F4EF]/20 via-white/40 to-[#F8F4EF] z-10 mix-blend-overlay"></div>
            <img 
-              src="images/photo-1516.jpeg"
+              src="images/photo-1516.jpg"
               alt="Background" 
               className="w-full h-full object-cover opacity-100 mix-blend-multiply filter blur-sm"
            />
