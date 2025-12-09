@@ -18,6 +18,13 @@ export default defineConfig(({ mode }) => {
         alias: {
           '@': path.resolve(__dirname, '.'),
         }
+      },
+      // ДОБАВЬ ЭТО ДЛЯ GITHUB PAGES:
+      base: '/https-github.com-vvs505-kod-realizacii/',
+      build: {
+        outDir: 'dist',
+        sourcemap: false,
+        emptyOutDir: true
       }
     };
 });
