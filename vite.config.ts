@@ -20,7 +20,7 @@ export default defineConfig(({ mode }) => {
         }
       },
       // ВАЖНО для GitHub Pages:
-      base: '',
+      base: '/https-github.com-vvs505-kod-realizacii/',
       build: {
         outDir: 'dist',
         sourcemap: false,
