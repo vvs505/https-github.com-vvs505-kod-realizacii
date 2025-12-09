@@ -22,6 +22,7 @@ const ProgramStep: React.FC<Props> = ({ step, index }) => {
             src={step.illustration} 
             alt={step.name}
             className="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
       </div>
