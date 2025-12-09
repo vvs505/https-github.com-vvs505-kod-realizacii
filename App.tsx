@@ -19,7 +19,7 @@ const App: React.FC = () => {
       
       {/* Navigation / Header */}
       <nav className="fixed top-0 left-0 right-0 z-40 px-6 py-4 flex justify-between items-center backdrop-blur-md bg-white/50 border-b border-white/40">
-        <div className="text-xl font-serif tracking-wider font-bold text-brand-dark opacity-80">CODE.</div>
+        <div className="text-xl font-serif tracking-wider font-bold text-brand-dark opacity-80">EvoLab</div>
         <a 
           href={TELEGRAM_LINK}
           target="_blank" 
