@@ -203,6 +203,7 @@ const App: React.FC = () => {
                 src="images/IMG_9708.jpg"
                 alt="Кристина"
                 className="absolute inset-0 w-full h-full object-cover"
+                loading="lazy"
              />
              <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/40 to-transparent"></div>
           </div>
