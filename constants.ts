@@ -62,7 +62,7 @@ export const DATA: ContentData = {
             "эмоциональная очистка",
             "баланс нервной системы"
           ],
-          illustration: "https://i.ibb.co/JW3x3j8D/IMG-9702-1.jpg",
+          illustration: "/images/IMG-9702.jpg",
           illustrationPrompt: "Watercolor abstract energy flow, kundalini rising, golden spiral ascending in mint mist, soft feminine silhouette, spiritual awakening."
         },
         {
@@ -74,7 +74,7 @@ export const DATA: ContentData = {
             "внутренний стержень",
             "ощущение собственной ценности"
           ],
-          illustration: "https://i.ibb.co/1tHk0ppP/IMG-9584-1.jpg",
+          illustration: "/images/IMG-9584.jpg",
           illustrationPrompt: "Watercolor 3D meditation space, floating islands in the sky, golden bridge to the future, ethereal clouds, divine light."
         },
         {
@@ -86,7 +86,7 @@ export const DATA: ContentData = {
             "видение 2026 года",
             "конкретный первый шаг"
           ],
-          illustration: "https://i.ibb.co/fd5GhvyJ/IMG-9704-1.jpg",
+          illustration: "/images/IMG-9704.jpg",
           illustrationPrompt: "Watercolor close up of a feminine hand holding a golden pen, writing on an ancient scroll, magical golden dust, realization, soft light."
         }
       ]
