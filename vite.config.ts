@@ -24,9 +24,7 @@ export default defineConfig(({ mode }) => {
       build: {
         outDir: 'dist',
         sourcemap: false,
-        emptyOutDir: true,
-        reportCompressedSize: true, // покажет размер после сжатия
-        minify: 'terser',
+        emptyOutDir: true
       }
     };
 });
