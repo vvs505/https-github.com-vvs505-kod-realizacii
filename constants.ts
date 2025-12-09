@@ -50,7 +50,7 @@ export const DATA: ContentData = {
             "внутреннее разрешение принимать больше",
             "ощущение поддержки и опоры"
           ],
-          illustration: "/images/IMG_9699.jpg",
+          illustration: "images/IMG_9699.jpg",
           illustrationPrompt: "Watercolor illustration of a glowing golden Tara silhouette sitting in lotus position, holding a light, soft mint and beige washes, sacred ritual atmosphere, sparkles."
         },
         {
@@ -62,7 +62,7 @@ export const DATA: ContentData = {
             "эмоциональная очистка",
             "баланс нервной системы"
           ],
-          illustration: "/images/IMG_9702.jpg",
+          illustration: "images/IMG_9702.jpg",
           illustrationPrompt: "Watercolor abstract energy flow, kundalini rising, golden spiral ascending in mint mist, soft feminine silhouette, spiritual awakening."
         },
         {
@@ -74,7 +74,7 @@ export const DATA: ContentData = {
             "внутренний стержень",
             "ощущение собственной ценности"
           ],
-          illustration: "/images/IMG_9584.jpg",
+          illustration: "images/IMG_9584.jpg",
           illustrationPrompt: "Watercolor 3D meditation space, floating islands in the sky, golden bridge to the future, ethereal clouds, divine light."
         },
         {
@@ -86,7 +86,7 @@ export const DATA: ContentData = {
             "видение 2026 года",
             "конкретный первый шаг"
           ],
-          illustration: "/images/IMG_9704.jpg",
+          illustration: "images/IMG_9704.jpg",
           illustrationPrompt: "Watercolor close up of a feminine hand holding a golden pen, writing on an ancient scroll, magical golden dust, realization, soft light."
         }
       ]
