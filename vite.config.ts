@@ -19,8 +19,8 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       },
-      // ДОБАВЬ ЭТО ДЛЯ GITHUB PAGES:
-      base: '/https-github.com-vvs505-kod-realizacii/',
+      // ВАЖНО для GitHub Pages:
+      base: '',
       build: {
         outDir: 'dist',
         sourcemap: false,
