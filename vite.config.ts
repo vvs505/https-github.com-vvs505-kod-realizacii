@@ -24,8 +24,14 @@ export default defineConfig(({ mode }) => {
       build: {
         outDir: 'dist',
         sourcemap: false,
-        emptyOutDir: true
+        emptyOutDir: true,
+        reportCompressedSize: true, // покажет размер после сжатия
+        minify: 'terser', // минификация
+        rollupOptions: {
+          output: {
+            assetFileNames: 'assets/[name]-[hash][extname]'
+          }
+        }
       }
     };
 });
-// Trigger deployment
